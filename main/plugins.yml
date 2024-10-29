@@ -2,7 +2,7 @@
   name: Lightbox Tags Extension - Hide Clear Button
   metadata:
     description: Hides the clear button so you don't accidentally remove all tags.
-  version: 1.0-
+  version: 1.0.0
   ui:
     javascript:
     - hideLightboxTagsClear.js
